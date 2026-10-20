@@ -5,10 +5,10 @@ verification procedures, corrections, and research decisions.
 
 ## Project Information
 
-- Project:
-- Author:
-- Started:
-- Last Updated:
+- Project: About how Amazon is impacting then world 
+- Author: I am the author of this document 
+- Started: Oct 5 
+- Last Updated: Oct 20 
 
 ---
 
@@ -144,13 +144,40 @@ ACCEPT / REJECT / NEEDS REVIEW
 
 # Final Verification Summary
 
-- AI interactions:
-- Sources found:
-- Sources verified:
-- Sources rejected:
-- Claims checked:
-- Supported:
-- Partially supported:
-- Contradicted:
-- Insufficient evidence:
-- Unverified:
+AI interactions: 1
+
+
+
+Sources found: 0 fully documented
+
+
+
+Sources verified: 0
+
+
+
+Sources rejected: 0
+
+
+
+Claims checked: 1
+
+
+
+Supported: 0
+
+
+
+Partially supported: 0
+
+
+
+Contradicted: 0
+
+
+
+Insufficient evidence: 1
+
+
+
+Unverified: 0
